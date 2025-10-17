@@ -7,3 +7,11 @@ Ferramenta usada nas aulas de Modelagem de Banco de Dados para conseguir criar e
 
 ### Baixar o BRModelo
   [Download no site sis4](https://www.sis4.com/download.html).
+
+## ERP Editor
+
+Extensão do vscode para criação e visualização de modelos lógicos
+
+### Link para instalar no vscode
+
+[Donwload no VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
