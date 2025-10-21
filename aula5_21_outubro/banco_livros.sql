@@ -1,5 +1,5 @@
 create database db_livros;  /*cria o banco de dados */
-select database db_livros; /* Seleciona o banco criado */
+use db_livros; /* Seleciona o banco criado */
 drop database db_livros; /*exclui  fisicamente o banco de dados*/
 
 
@@ -20,7 +20,8 @@ create table tb_livro(
     estado_conservacao enum('novo', 'usado', 'semi novo')
 );
 
+describe tb_livro; /*Mostra estrutura da tabela */
 
-create table tb_autor()
+select * from tb_livro /* Mostra conteúdo da tabela */
 
 
